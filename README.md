@@ -2,7 +2,8 @@
 
 I'm learning Python! This repository contains some small projects and exercises as I progress through my Python learning journey.
 
-## Projects
+## Project 1
+
 
 ### Snake, Water, Gun Game
 A classic game of chance where you play against the computer. Choose snake, water, or gun and see if you can beat the computer!
@@ -22,4 +23,3 @@ python main.py
 
 ---
 
-Feel free to explore the code and provide feedback! Happy coding 🐍
