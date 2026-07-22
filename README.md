@@ -1,10 +1,10 @@
-# Python Projects
+# Python Projects🍜
 
-This is my personal Python learning space. Every project here represents a step forward — from basic logic and terminal games to working APIs, voice assistants, and AI-powered automation. Each one was built to learn something new, not just to finish something.
+This is my personal Python learning space. Every project here represents a step forward — from basic logic and terminal games to working APIs, voice assistants, and AI-powered automation. Each one was built to learn something new, not just to finish something ＞﹏＜.
 
 ---
 
-## Project 1 — Snake, Gun, Water
+## Project 1 — Snake, Gun, Water 🐍🌊🔫
 
 A terminal-based Snake-Gun-Water game (the Indian version of Rock-Paper-Scissors).
 
@@ -14,7 +14,7 @@ A terminal-based Snake-Gun-Water game (the Indian version of Rock-Paper-Scissors
 
 ---
 
-## Project 2 — The Perfect Guess
+## Project 2 — The Perfect Guess 🤷‍♀️
 
 A number guessing game where the computer picks a random number between 1–100 and the player guesses until they get it right.
 
@@ -24,7 +24,7 @@ A number guessing game where the computer picks a random number between 1–100 
 
 ---
 
-## Project 3 — Jarvis Voice Assistant
+## Project 3 — Jarvis Voice Assistant 🤖
 
 A voice-controlled assistant that listens, speaks back, and can do useful things.
 
@@ -37,7 +37,7 @@ First project involving real APIs, audio I/O, and a proper multi-file structure.
 
 ---
 
-## Project 4 — WhatsApp AI Auto-Reply Bot
+## Project 4 — WhatsApp AI Auto-Reply Bot 😸
 
 A desktop automation bot that monitors a WhatsApp chat and replies using an AI persona.
 
@@ -52,4 +52,4 @@ Most complex project so far — combines automation, vision, AI, and session man
 
 ---
 
-> These projects are a record of progression, not a polished portfolio. They will keep evolving.
+> 🌱These projects are a record of progression, not a polished portfolio. They will keep evolving.

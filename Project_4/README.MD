@@ -1,4 +1,4 @@
-# WhatsApp AI Auto-Reply Bot
+# WhatsApp AI Auto-Reply Bot 😸
 
 An AI-powered WhatsApp bot that monitors a specific chat, detects incoming messages, and automatically replies using a large language model — all through desktop automation.
 
@@ -94,7 +94,7 @@ Project_4/
 
 ---
 
-## Fallbacks and Limitations
+## Fallbacks and Limitations😶‍🌫️
 
 | Situation | What happens |
 |---|---|
@@ -120,4 +120,4 @@ Project_4/
 
 ---
 
-> **Note:** This is a small, growing, and learning-phase project. It started as a basic pixel-polling bot and is progressively evolving — better change detection, smarter copy logic, in-memory context, and typing-filter have already been added. Future iterations will improve reliability, add multi-contact support, handle missed messages on startup, and reduce dependency on fixed screen coordinates. Progress will continue.
+> 🌱**Note:** This is a small, growing, and learning-phase project. It started as a basic pixel-polling bot and is progressively evolving — better change detection, smarter copy logic, in-memory context, and typing-filter have already been added. Future iterations will improve reliability, add multi-contact support, handle missed messages on startup, and reduce dependency on fixed screen coordinates. Progress will continue.

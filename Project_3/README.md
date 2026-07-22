@@ -1,4 +1,4 @@
-# Jarvis Voice Assistant
+# Jarvis Voice Assistant🤖 
 
 A Python voice assistant that listens for spoken commands and can open websites, play music, fetch news, and answer general questions via an AI model.
 
@@ -63,7 +63,7 @@ Once running, Jarvis speaks an intro and starts listening in 5-second chunks. Sp
 
 If Jarvis doesn't hear anything for 30 seconds straight (six silent 5-second listening rounds), it automatically ends the session.
 
-## Known limitations
+## Known limitations😶‍🌫️
 
 - Recording is a fixed 5-second window per listen cycle — it isn't silence-aware, so it always records the full 5 seconds even if you finish speaking sooner, and can cut off longer sentences.
 - Google's free speech recognition endpoint (`recognize_google`) is unofficial and rate-limited — not meant for heavy or production use.
@@ -80,7 +80,7 @@ If Jarvis doesn't hear anything for 30 seconds straight (six silent 5-second lis
 └── README.md
 ```
 
-## Note
+## 🌱Note
 
 ```
 This is a very small, beginner-level implementation of an AI assistant.
